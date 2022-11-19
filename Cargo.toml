@@ -1,4 +1,5 @@
 [package]
+edition = "2021"
 name = "encoding"
 version = "0.3.0-dev"
 authors = ["Kang Seonghoon <public+rust@mearie.org>"]
